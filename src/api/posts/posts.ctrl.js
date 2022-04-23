@@ -122,3 +122,4 @@ exports.update = (ctx) => {
     };
     ctx.body = posts[index];
 };
+
